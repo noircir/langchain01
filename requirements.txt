@@ -1,0 +1,5 @@
+black==23.3.0
+langchain==0.0.174
+openai==0.27.7
+pip-chill==1.0.3
+python-dotenv==1.0.0
